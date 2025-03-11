@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TN01-WFCadastrar", "TN01-WFCadastrar\TN01-WFCadastrar.csproj", "{F2BFC9DE-0D42-41A7-8A27-3AA1C07A4147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFCadastroEndereco", "WFCadastroEndereco\WFCadastroEndereco.csproj", "{82D6BF8F-D234-48C4-AE9E-58C088C6D33E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F2BFC9DE-0D42-41A7-8A27-3AA1C07A4147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BFC9DE-0D42-41A7-8A27-3AA1C07A4147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BFC9DE-0D42-41A7-8A27-3AA1C07A4147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D6BF8F-D234-48C4-AE9E-58C088C6D33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D6BF8F-D234-48C4-AE9E-58C088C6D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D6BF8F-D234-48C4-AE9E-58C088C6D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D6BF8F-D234-48C4-AE9E-58C088C6D33E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
